@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * listint_len - returns of elements in a linked lists
+ * listint_len - returns the elements in a linked lists
  * @h: linked list of type listint_t to traverse
  *
  * Return: number of nodes
